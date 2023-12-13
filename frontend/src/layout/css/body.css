@@ -1,0 +1,4 @@
+.custom-input:hover {
+    border-color: none; /* Màu của đường viền khi hover */
+    box-shadow: none; /* Bóng đổ khi hover */
+  }
